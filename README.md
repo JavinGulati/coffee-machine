@@ -89,3 +89,49 @@ Some possible improvements for this project include:
 - Adding a database for storing transactions
 - Improving the payment system
 - Adding an order history
+
+## 📥 How to Download and Run
+
+### 1. Download the Project
+
+Click the **Code** button on this GitHub repository and select **Download ZIP**.
+
+Extract the downloaded ZIP file on your computer.
+
+Alternatively, you can clone the repository using Git:
+
+```bash
+git clone <repository-url>
+```
+
+### 2. Open the Project
+
+Open the extracted `coffee-machine` folder in **VS Code** or any Python IDE.
+
+The project contains two versions:
+
+```text
+coffee-machine/
+├── procedural_version/
+└── oop_version/
+```
+
+### 3. Run the Procedural Version
+
+Open the `procedural_version` folder and run the main Python file:
+
+```bash
+python3 coffee_machine.py
+```
+
+### 4. Run the OOP Version
+
+Open the `oop_version` folder and run the main Python file:
+
+```bash
+python3 main.py
+```
+
+Make sure **Python 3** is installed on your computer before running the project.
+
+> **Note:** The OOP version contains multiple Python files, so keep all the files inside the `oop_version` folder when running the project.
